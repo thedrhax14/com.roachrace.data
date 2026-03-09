@@ -1,6 +1,6 @@
 {
   "name": "com.roachrace.data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "RoachRace Data",
   "description": "Data models and structures for RoachRace game",
   "unity": "2021.3",
