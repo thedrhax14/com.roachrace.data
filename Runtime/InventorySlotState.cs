@@ -6,7 +6,7 @@ namespace RoachRace.Data
     public struct InventorySlotState
     {
         public ushort ItemId;
-        public byte Count;
+        public int Count;
 
         public bool IsEmpty => ItemId == 0 || Count == 0;
 
