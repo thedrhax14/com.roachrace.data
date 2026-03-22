@@ -21,11 +21,6 @@ namespace RoachRace.Data
         public string WeaponIconKey;
 
         /// <summary>
-        /// Damage type (fallback if WeaponIconKey is empty).
-        /// </summary>
-        public DamageType DamageType;
-
-        /// <summary>
         /// Optional server tick when this entry was produced.
         /// </summary>
         public uint ServerTick;
